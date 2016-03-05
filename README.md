@@ -1,10 +1,9 @@
 # MeanContactList
 Mean Stack Contact List Tutorial
 - mongo 3.2
-
 - angular 1.5.0
 - node 4.3.2
-- bootstrap 3.3.6
+- bootstrap 3.3.6<br>
 
 Install
 - express 4.13.4 (npm install express)
